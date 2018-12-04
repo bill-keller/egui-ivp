@@ -24,9 +24,7 @@ angular.
 				}
 				self.ca_item_ref = ca_item_ref;
 
-
-        //$http.get('http://cap-sg-prd-2.integration.ibmcloud.com:16598/catalog/items/' + ca_item_ref).then(function(response) {
-        $http.get('http://tec6mvs:9082/catalogManager/items/' + ca_item_ref).then(function(response) {
+        $http.get('http://10.1.1.2:9080/catalogManager/items/' + ca_item_ref).then(function(response) {
 
 					self.item = response.data.DFH0XCMNOperationResponse.ca_inquire_single.ca_single_item;
 

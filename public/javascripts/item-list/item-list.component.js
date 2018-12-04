@@ -9,8 +9,7 @@ angular.
       var self = this;
       self.orderProp = 'ca_description';
 
-      $http.get('http://tec6mvs:9082/catalogManager/items?startItemID=0010').then(function(response) {
-      //$http.get('http://tec6mvs:9080/catalog/items?startItemID=0010').then(function(response) {
+      $http.get('http://10.1.1.2:9080/catalogManager/items?startItemID=0010').then(function(response) {
 
 			self.items = response.data.DFH0XCMNOperationResponse.ca_inquire_request.ca_cat_item;
 	
