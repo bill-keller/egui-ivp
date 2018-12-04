@@ -1,4 +1,4 @@
-# egui
+# egui-ivp
 
 This sample application demonstrates using AngularJS/Express/Node.js to access data from a z/OS system (CICS/VSAM) using REST APIs. The goal is show how easy it is to incorporate z/OS application data into an existing Node.js application using RESTful APIs and that z/OS application data can be accessed and used just like REST/JSON applications on any other platform.
 
