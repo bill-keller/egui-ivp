@@ -1,0 +1,20 @@
+{
+    "additionalFeatures": "70 sheets", 
+    "brandAndModel": {
+        "brand": "Notepad Inc.", 
+        "model": "4856"
+    }, 
+    "itemDimensions": {
+        "height":".5 in",
+        "length":"8.25 in",
+        "width":"5.75 in"
+    }, 
+    "color": "black",
+    "shippingWeight": "14 ounces",
+    "description": "Hard back wirebound notepad", 
+    "images": [
+        "images/items/notepad_1.jpg", 
+        "images/items/notepad_2.jpg", 
+        "images/items/notepad_3.jpg"
+    ]
+}

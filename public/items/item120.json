@@ -1,0 +1,19 @@
+{
+    "additionalFeatures": "tabbed", 
+    "brandAndModel": {
+        "brand": "Diaries R Us", 
+        "model": "64-2432"
+    }, 
+    "itemDimensions": {
+        "height":".5 in",
+        "length":"8.25 in",
+        "width":"5.75 in"
+    }, 
+    "color": "mauve",
+    "shippingWeight": "14 ounces",
+    "description": "Standard diary with week to week view", 
+    "images": [
+        "images/items/diary_1.jpg", 
+        "images/items/diary_2.jpg" 
+    ]
+}

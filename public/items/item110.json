@@ -1,0 +1,19 @@
+{
+    "additionalFeatures": "auto sheet feed, refurbished", 
+    "brandAndModel": {
+        "brand": "IBM", 
+        "model": "pr536"
+    }, 
+    "itemDimensions": {
+        "height":"17 in",
+        "length":"23 in",
+        "width":"22 in"
+    }, 
+    "color": "white",
+    "shippingWeight": "64 lbs",
+    "description": "IBM Network Laser Printer - 24 ppm", 
+    "images": [
+        "images/items/printer_1.jpg", 
+        "images/items/printer_2.jpg" 
+    ]
+}

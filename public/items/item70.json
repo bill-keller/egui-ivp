@@ -1,0 +1,20 @@
+{
+    "additionalFeatures": "recycled", 
+    "brandAndModel": {
+        "brand": "Hammermill", 
+        "model": "CopyPlus-500"
+    }, 
+    "itemDimensions": {
+        "height":"2 in",
+        "length":"11 in",
+        "width":"8.5 in"
+    }, 
+    "color": "white",
+    "shippingWeight": "20 pounds",
+    "description": "500 sheets white copy paper.", 
+    "images": [
+        "images/items/paper_white_500_1.jpg", 
+        "images/items/paper_white_500_2.jpg", 
+        "images/items/paper_white_500_3.jpg"
+    ]
+}

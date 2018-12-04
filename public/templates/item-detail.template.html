@@ -1,0 +1,70 @@
+<img ng-src="{{$ctrl.mainImageUrl}}" class="item" />
+
+<!--
+<div class="item-images">
+  <img ng-src="{{img}}" class="item"
+      ng-class="{selected: img === $ctrl.mainImageUrl}"
+      ng-repeat="img in $ctrl.itemDetails.images" />
+</div>
+-->
+
+
+<h1>{{$ctrl.item.ca_sngl_description}}</h1>
+
+    <span style="font-size:1.2em;font-weight:bold;">Description</span>
+    <dl>
+      <dd>{{$ctrl.itemDetails.description}}</dd>
+    </dl>
+
+
+<ul class="item-thumbs">
+  <li ng-repeat="img in $ctrl.itemDetails.images">
+    <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
+  </li>
+</ul>
+
+<ul class="specs">
+  <li>
+    <span>Brand and Model</span>
+    <dl>
+      <dt>Brand</dt>
+      <dd>{{$ctrl.itemDetails.brandAndModel.brand}}</dd>
+      <dt>Model</dt>
+      <dd>{{$ctrl.itemDetails.brandAndModel.model}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Availability</span>
+    <dl>
+      <dt>In Stock</dt>
+      <dd>{{$ctrl.item.in_sngl_stock}}</dd>
+      <dt>On Order</dt>
+      <dd>{{$ctrl.item.on_sngl_order}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Cost</span>
+    <dl>
+      <dd><span id="currency-default">{{$ctrl.item.ca_sngl_cost | currency}}</span></dd>
+    </dl>
+  </li>
+  <li>
+    <span>Dimensions</span>
+    <dl>
+      <dt>Height</dt>
+      <dd>{{$ctrl.itemDetails.itemDimensions.height}}</dd>
+      <dt>Length</dt>
+      <dd>{{$ctrl.itemDetails.itemDimensions.length}}</dd>
+      <dt>Width</dt>
+      <dd>{{$ctrl.itemDetails.itemDimensions.width}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Shipping Weight</span>
+    <dd>{{$ctrl.itemDetails.shippingWeight}}</dd>
+  </li>
+  <li>
+    <span>Additional Features</span>
+    <dd>{{$ctrl.itemDetails.additionalFeatures}}</dd>
+  </li>
+</ul>

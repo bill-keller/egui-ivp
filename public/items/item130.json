@@ -1,0 +1,20 @@
+{
+    "additionalFeatures": "erasable, monthly or quarterly views", 
+    "brandAndModel": {
+        "brand": "Planner Co.", 
+        "model": "2017-4"
+    }, 
+    "itemDimensions": {
+        "height":"36 in",
+        "length":".5 in",
+        "width":"24 in"
+    }, 
+    "color": "multi",
+    "shippingWeight": "15 ounces",
+    "description": "2017 Wall planner", 
+    "images": [
+        "images/items/wall_planner_1.jpg", 
+        "images/items/wall_planner_2.jpg",
+        "images/items/wall_planner_3.jpg" 
+    ]
+}

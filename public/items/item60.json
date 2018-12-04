@@ -1,0 +1,20 @@
+{
+    "additionalFeatures": "Removable caps", 
+    "brandAndModel": {
+        "brand": "Sharpie", 
+        "model": "3546"
+    }, 
+    "itemDimensions": {
+        "height":"22 mm",
+        "length":"63 mm",
+        "width":"45 mm"
+    }, 
+    "color": "assorted",
+    "shippingWeight": "9 ounces",
+    "description": "Really nice highlighters. 5 (+1 bonus) per pack.", 
+    "images": [
+        "images/items/hilighters_1.jpg", 
+        "images/items/hilighters_2.jpg", 
+        "images/items/hilighters_3.jpg"
+    ]
+}

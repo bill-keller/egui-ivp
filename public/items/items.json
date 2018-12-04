@@ -1,0 +1,92 @@
+[
+    {
+        "id": "0010", 
+        "imageUrl": "images/items/10.jpg", 
+        "name": "Black Pens", 
+        "snippet": "Really nice black pens."
+    }, 
+    {
+        "id": "0020", 
+        "imageUrl": "images/items/20.jpg", 
+        "name": "Blue Pens", 
+        "snippet": "Really nice blue pens."
+    }, 
+    {
+        "id": "0030", 
+        "imageUrl": "images/items/30.jpg", 
+        "name": "Red Pens", 
+        "snippet": "Really nice red pens."
+    }, 
+    {
+        "id": "0040", 
+        "imageUrl": "images/items/40.jpg", 
+        "name": "Green Pens", 
+        "snippet": "Really nice green pens."
+    }, 
+    {
+        "id": "0050", 
+        "imageUrl": "images/items/50.jpg", 
+        "name": "Pencils", 
+        "snippet": "Really nice pencils."
+    }, 
+    {
+        "id": "0060", 
+        "imageUrl": "images/items/60.jpg", 
+        "name": "Hilighters", 
+        "snippet": "Really nice hilighters."
+    }, 
+    {
+        "id": "0070", 
+        "imageUrl": "images/items/70.jpg", 
+        "name": "Paper - white - 500 sheets", 
+        "snippet": "Really nice white paper."
+    }, 
+    {
+        "id": "0080", 
+        "imageUrl": "images/items/80.jpg", 
+        "name": "Paper - white - 2500 sheets", 
+        "snippet": "Really nice white paper."
+    }, 
+    {
+        "id": "0090", 
+        "imageUrl": "images/items/90.jpg", 
+        "name": "Paper - blue - 500 sheets", 
+        "snippet": "Really nice blue paper."
+    }, 
+    {
+        "id": "0100", 
+        "imageUrl": "images/items/100.jpg", 
+        "name": "Paper - green - 500 sheets", 
+        "snippet": "Really nice green paper."
+    }, 
+    {
+        "id": "0110", 
+        "imageUrl": "images/items/110.jpg", 
+        "name": "Printer", 
+        "snippet": "Really nice printer."
+    }, 
+    {
+        "id": "0120", 
+        "imageUrl": "images/items/120.jpg", 
+        "name": "Diary", 
+        "snippet": "Really nice diary."
+    }, 
+    {
+        "id": "0130", 
+        "imageUrl": "images/items/130.jpg", 
+        "name": "Wall Planner", 
+        "snippet": "Really nice planner."
+    }, 
+    {
+        "id": "0140", 
+        "imageUrl": "images/items/140.jpg", 
+        "name": "Notepad", 
+        "snippet": "Really nice notepad."
+    }, 
+    {
+        "id": "0150", 
+        "imageUrl": "images/items/150.jpg", 
+        "name": "Sticky Notes", 
+        "snippet": "Really nice sticky notes."
+    }
+]

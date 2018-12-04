@@ -1,0 +1,20 @@
+{
+    "additionalFeatures": "n/a", 
+    "brandAndModel": {
+        "brand": "The Pencil Co.", 
+        "model": "Number 2"
+    }, 
+    "itemDimensions": {
+        "height":"22 mm",
+        "length":"63 mm",
+        "width":"45 mm"
+    }, 
+    "color": "yellow",
+    "shippingWeight": "5 ounces",
+    "description": "Classic No. 2 pencils. 12 per pack.", 
+    "images": [
+        "images/items/pencil_1.jpg", 
+        "images/items/pencil_2.jpg", 
+        "images/items/pencil_3.jpg" 
+    ]
+}

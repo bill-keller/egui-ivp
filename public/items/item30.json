@@ -1,0 +1,19 @@
+{
+    "additionalFeatures": "Gel roller, retractable, fine point", 
+    "brandAndModel": {
+        "brand": "Pilot", 
+        "model": "G-2"
+    }, 
+    "itemDimensions": {
+        "height":"22 mm",
+        "length":"63 mm",
+        "width":"45 mm"
+    }, 
+    "color": "red",
+    "shippingWeight": "5 ounces",
+    "description": "Really nice red pens. 24 per pack.", 
+    "images": [
+        "images/items/red_pen_1.jpg", 
+        "images/items/red_pen_2.jpg" 
+    ]
+}

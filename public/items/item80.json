@@ -1,0 +1,18 @@
+{
+    "additionalFeatures": "recycled", 
+    "brandAndModel": {
+        "brand": "Hammermill", 
+        "model": "CopyPlus-2500"
+    }, 
+    "itemDimensions": {
+        "height":"13 in",
+        "length":"11.5 in",
+        "width":"8.5 in"
+    }, 
+    "color": "white",
+    "shippingWeight": "80 pounds",
+    "description": "2500 sheets copy paper", 
+    "images": [
+        "images/items/paper_white_2500_1.jpg", 
+        "images/items/paper_white_2500_2.jpg"    ]
+}

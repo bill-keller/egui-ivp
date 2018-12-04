@@ -1,0 +1,21 @@
+{
+    "additionalFeatures": "recycled", 
+    "brandAndModel": {
+        "brand": "Icky Sticky", 
+        "model": "54-7547"
+    }, 
+    "itemDimensions": {
+        "height":"3 in",
+        "length":"3 in",
+        "width":"3 in"
+    }, 
+    "color": "multi",
+    "shippingWeight": "9 ounces",
+    "description": "Assorted color sticky notes - 5 pack", 
+    "images": [
+        "images/items/sticky_notes_1.jpg", 
+        "images/items/sticky_notes_2.jpg", 
+        "images/items/sticky_notes_3.jpg", 
+        "images/items/sticky_notes_4.jpg"
+    ]
+}
