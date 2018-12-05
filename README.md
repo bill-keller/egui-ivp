@@ -1,17 +1,19 @@
 # egui-ivp
 
-This sample application demonstrates using AngularJS/Express/Node.js to access data from a z/OS system (CICS/VSAM) using REST APIs. The goal is show how easy it is to incorporate z/OS application data into an existing Node.js application using RESTful APIs and that z/OS application data can be accessed and used just like REST/JSON applications on any other platform.
+This sample application demonstrates a Node.js application which makes API calls to z/OS Connect REST APIs which invoke a CICS/COBOL application. The backend CICS application used is the Catalog Manager example application which is available on all supported versions of CICS.
 
-The backend CICS application (the Catalog Manager sample application which is available on all supported versions of CICS) has been REST API enabled using z/OS Connect Enterprise Edition V3.0.
+The z/OS Connect REST APIs used can be created by following the z/OS Connect Quick Start Scenario steps in the z/OS Connect Knowledge Center to create a pre-configured z/OS Connect server using pre-generated artifacts for services and APIs designed to work with the CICS Catalog Manager application. see https://www.ibm.com/support/knowledgecenter/SS4SVW_3.0.0/scenarios/cics_connection.html
 
-To recreate this sample on your pc:
+The above link has instructions for installing the sample CICS application as well as the steps for creating and customizing the z/OS Connect server instance.
+
+To recreate the Node.js environment locally:
 
 - install git, node.js/npm, and bower:
   - https://git-scm.com/download
   - https://nodejs.org/en/
   - https://bower.io/#install-bower
 
-- clone the git repository
+- clone the egui-ivp application git repository
   -->  "git clone https://github.com/bill-keller/egui-ivp.git"
 
 - run the npm and bower installs:
