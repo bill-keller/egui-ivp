@@ -15,12 +15,12 @@ To recreate this sample on your pc:
   -->  "git clone https://github.com/bill-keller/egui-ivp.git"
 
 - run the npm and bower installs:
-  - cd to the egui directory
+  - cd to the egui-ivp directory
     - then run --> "npm install"
-  - cd to the egui/public dir
+  - cd to the egui-ivp/public dir
     - then run --> "bower install"
 
 - start the express server:
-  - cd to the main egui directory
+  - cd to the main egui-ivp directory
     - then run: "npm start"
   - access application at: http://localhost:3000/#!/items
